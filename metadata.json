@@ -1,0 +1,5 @@
+{
+  "name": "Outlier Detection Tool",
+  "description": "An advanced tool to identify outliers in CSV or Excel datasets using seven different statistical methods. It provides detailed reports and visual plots for 1D and 2D data.",
+  "requestFramePermissions": []
+}
